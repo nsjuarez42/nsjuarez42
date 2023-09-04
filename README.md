@@ -6,7 +6,7 @@ Web developer
 
 I have been learning programming and web development since 2020
 
-* 🌍  I'm based in Cordoba, Argentina
+* 🌍  I'm based in Valencia, Spain
 * ✉️  You can contact me at [nsjuarez42@gmail.com](mailto:nsjuarez42@gmail.com)
 
 ### Skills
